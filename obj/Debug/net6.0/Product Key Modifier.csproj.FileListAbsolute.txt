@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\Product Key Modifier\bin\Debug\net6.0\Product Key Modifier.exe
+C:\Users\PC\source\repos\Product Key Modifier\bin\Debug\net6.0\Product Key Modifier.deps.json
+C:\Users\PC\source\repos\Product Key Modifier\bin\Debug\net6.0\Product Key Modifier.runtimeconfig.json
+C:\Users\PC\source\repos\Product Key Modifier\bin\Debug\net6.0\Product Key Modifier.dll
+C:\Users\PC\source\repos\Product Key Modifier\bin\Debug\net6.0\Product Key Modifier.pdb
+C:\Users\PC\source\repos\Product Key Modifier\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\PC\source\repos\Product Key Modifier\obj\Debug\net6.0\Product Key Modifier.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Product Key Modifier\obj\Debug\net6.0\Product Key Modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Product Key Modifier\obj\Debug\net6.0\Product Key Modifier.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Product Key Modifier\obj\Debug\net6.0\Product Key Modifier.AssemblyInfo.cs
+C:\Users\PC\source\repos\Product Key Modifier\obj\Debug\net6.0\Product Key Modifier.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Product Key Modifier\obj\Debug\net6.0\Product .7FA3E07A.Up2Date
+C:\Users\PC\source\repos\Product Key Modifier\obj\Debug\net6.0\Product Key Modifier.dll
+C:\Users\PC\source\repos\Product Key Modifier\obj\Debug\net6.0\refint\Product Key Modifier.dll
+C:\Users\PC\source\repos\Product Key Modifier\obj\Debug\net6.0\Product Key Modifier.pdb
+C:\Users\PC\source\repos\Product Key Modifier\obj\Debug\net6.0\Product Key Modifier.genruntimeconfig.cache
+C:\Users\PC\source\repos\Product Key Modifier\obj\Debug\net6.0\ref\Product Key Modifier.dll
