@@ -1,0 +1,45 @@
+{
+    "productKeySettings": {
+        "defaultKey": "XXXXX-XXXXX-XXXXX-XXXXX-XXXXX", // Optional: Default product key to use if no input is provided
+        "validateKeyFormat": true, // Whether to enforce the format validation for the product key
+        "keyRetryAttempts": 3 // Number of attempts the user can make if they enter an invalid key format
+    },
+
+    "logSettings": {
+        "enableLogging": true, // Enable or disable logging
+        "logFilePath": "C:\\Logs\\WindowsXPActivator.log", // Path where log file will be saved
+        "logLevel": "INFO", // Log level: INFO, DEBUG, WARN, ERROR, etc.
+        "maxLogFileSizeMB": 10, // Max size of the log file in MB before it gets rotated
+        "enableLogRotation": true, // Whether to rotate the log file once it reaches max size
+        "logRetentionDays": 7 // Number of days to retain logs before deletion
+    },
+
+    "retrySettings": {
+        "maxRetryAttempts": 5, // Maximum retry attempts for registry modification
+        "retryDelaySeconds": 2 // Delay in seconds before retrying after a failed attempt
+    },
+
+    "errorHandling": {
+        "retryOnError": true, // Whether to retry in case of an error
+        "maxErrorCount": 3, // Max number of errors to tolerate before aborting
+        "errorLogLevel": "ERROR" // Log level for errors: ERROR, WARN
+    },
+
+    "userSettings": {
+        "askForConfirmation": true, // Whether to ask for confirmation before making changes
+        "autoExitOnSuccess": true, // Automatically exit after successfully modifying the product key
+        "showVerboseMessages": false // Show detailed log messages in the console
+    },
+
+    "systemSettings": {
+        "registryBackupEnabled": true, // Whether to backup the registry before making changes
+        "backupLocation": "C:\\Backups\\WindowsXPRegistryBackup.reg", // Location for the registry backup file
+        "enableRegistryCheck": true, // Whether to check the current registry for product key before modification
+        "checkForUpdates": false // Whether to check for software updates on program launch
+    },
+
+    "debugSettings": {
+        "enableDebugMode": false, // Whether to enable detailed debugging information
+        "debugLogFilePath": "C:\\Logs\\WindowsXPActivator_Debug.log" // Path for debug logs
+    }
+}
